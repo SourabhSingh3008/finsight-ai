@@ -1,0 +1,20 @@
+October 01    Netflix Subscription       $15.99
+October 02    Uber Rides                 $24.50
+October 02    Starbucks Coffee           $5.45
+October 04    Whole Foods Market         $112.30
+October 05    Amazon Prime Video         $8.99
+October 05    Target Groceries           $65.00
+October 06    Shell Gas Station          $45.00
+October 08    Spotify Premium            $10.99
+October 10    AMC Theaters               $32.00
+October 12    Planet Fitness             $29.99
+October 15    Uber Eats                  $35.50
+October 17    Trader Joe's               $88.40
+October 18    Adobe Creative Cloud       $54.99
+October 20    AT&T Phone Bill            $75.00
+October 22    CVS Pharmacy               $18.50
+October 25    Uber Rides                 $15.20
+October 26    Starbucks Coffee           $6.00
+October 28    Whole Foods Market         $45.10
+October 30    Netflix Subscription       $15.99
+October 31    Halloween Spirit Store     $120.00
